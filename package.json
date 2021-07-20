@@ -1,0 +1,10 @@
+{
+  "name": "sym-key",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Kent Ip",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  }
+}
